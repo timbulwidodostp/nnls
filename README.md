@@ -1,6 +1,8 @@
 # nnls
 Non-negative least squares Use nnls With STATA 19
 
+https://www.youtube.com/watch?v=m3n8fdCGAg8
+
 Olah Data Semarang
 
 WA : +6285227746673 (085227746673)
